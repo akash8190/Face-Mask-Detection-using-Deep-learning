@@ -44,8 +44,9 @@ Deploying our face mask detector to embedded devices could reduce the cost of ma
 
 
 
-## TO RUN THIS PROJECT
-1)
+## THANKU NOTE 
+
+Thanku krish naik for wonderful teaching about keras and deep learning which help me to create this project.
 
 
 
