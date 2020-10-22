@@ -32,3 +32,18 @@ without_mask: 686 images
  
 # Our goal is to train a custom deep learning model to detect whether a person is or is not wearing a mask. 
 
+## Implementing our COVID-19 face mask detector training script with Keras and TensorFlow
+
+Now that we’ve reviewed our face mask dataset, Now we can use Keras and TensorFlow to train a classifier to automatically detect whether a person is wearing a mask or not.
+
+To accomplish this task, we’ll be fine-tuning the MobileNet V2 architecture, a highly efficient architecture that can be applied to embedded devices with limited computational capacity (ex., Raspberry Pi, Google Coral, NVIDIA Jetson Nano, etc.)
+Deploying our face mask detector to embedded devices could reduce the cost of manufacturing such face mask detection systems, hence why we choose to use this architecture.
+
+
+
+
+
+
+
+
+
