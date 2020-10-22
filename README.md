@@ -40,6 +40,14 @@ To accomplish this task, we’ll be fine-tuning the MobileNet V2 architecture, a
 Deploying our face mask detector to embedded devices could reduce the cost of manufacturing such face mask detection systems, hence why we choose to use this architecture
 
 
+![title](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detector_plot.png)
+
+
+
+## TO RUN THIS PROJECT
+1)
+
+
 
 
 
